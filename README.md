@@ -1,5 +1,14 @@
 # NeuralNetwrok_22773
 
-This repo is for Assignment/Project of Neural Network and Deep Learning, CRN 22773 course.
+This repo is for Assignment/Project of **Neural Network and Deep Learning**, CRN 22773 course.
 
 File Structure
+
+```text
+Week1/
+├── Q1.py
+    :
+    :
+├── 
+└── 
+
